@@ -1,0 +1,31 @@
+h1{
+
+    width: 200vh;
+    text-align: center;
+    color: rgb(112, 29, 29);
+    font-size: 6vh;
+    
+
+    
+}
+body{
+    margin-left: 8vh;
+    margin-right: 8vh;
+    margin-top: 8vh;
+}
+.contain_text{
+    text-align: center;
+    font-size: 2vh;
+
+}
+
+img{
+    width: 400px;
+    height: 400px;
+}
+
+.botonSi{
+    border-radius: 20%;
+    
+   
+}
